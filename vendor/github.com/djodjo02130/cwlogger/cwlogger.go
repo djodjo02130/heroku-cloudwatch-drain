@@ -106,7 +106,7 @@ func (lg *Logger) Log(t time.Time, s string) {
 	go func() {
 		lg.batcher.input <- &cloudwatchlogs.InputLogEvent{
 			Message:   &s,
-			Timestamp: aws.Int64(t.UnixNano() / int64(time.Millisecond)),
+			Timestamp: aws.Int64(t.UnixNano()),
 		}
 		lg.wg.Done()
 	}()

@@ -2,7 +2,7 @@
 
 A Heroku HTTPS log drain that stores logs in CloudWatch Logs.
 
-[![Build Status](https://travis-ci.org/kiskolabs/heroku-cloudwatch-drain.svg?branch=master)](https://travis-ci.org/kiskolabs/heroku-cloudwatch-drain)
+[![Build Status](https://travis-ci.org/djodjo02130/heroku-cloudwatch-drain.svg?branch=master)](https://travis-ci.org/djodjo02130/heroku-cloudwatch-drain)
 
 ## Getting started
 

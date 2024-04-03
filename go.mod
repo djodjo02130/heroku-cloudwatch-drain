@@ -1,4 +1,4 @@
-module github.com/kiskolabs/heroku-cloudwatch-drain
+module github.com/djodjo02130/heroku-cloudwatch-drain
 
 go 1.19
 

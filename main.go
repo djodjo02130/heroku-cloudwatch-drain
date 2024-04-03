@@ -17,7 +17,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
 	"github.com/honeybadger-io/honeybadger-go"
-	"github.com/jcxplorer/cwlogger"
+	"github.com/djodjo02130/cwlogger"
 	"github.com/kiskolabs/heroku-cloudwatch-drain/logparser"
 	"github.com/newrelic/go-agent"
 )

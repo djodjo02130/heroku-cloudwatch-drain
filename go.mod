@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.51.14
-	github.com/djodjo02130/cwlogger v0.0.0-20240403201912-408fad5e4bd8
+	github.com/djodjo02130/cwlogger v0.0.0-20240403202035-f3f939b787c6
 	github.com/honeybadger-io/honeybadger-go v0.2.1
 	github.com/newrelic/go-agent v1.9.0
 	github.com/stretchr/testify v1.8.0

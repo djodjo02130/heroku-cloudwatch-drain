@@ -3,8 +3,8 @@ github.com/aws/aws-sdk-go v1.51.14/go.mod h1:LF8svs817+Nz+DmiMQKTO3ubZ/6IaTpq3Tj
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/djodjo02130/cwlogger v0.0.0-20240403201912-408fad5e4bd8 h1:TpyUzsjZrZCmIR3lnBK3iaRujsgaiQHycnq+2NvIpeI=
-github.com/djodjo02130/cwlogger v0.0.0-20240403201912-408fad5e4bd8/go.mod h1:Y5/8wokpsaBwsAIsuJqZMBjOl6FDcmgN46fjbealQiw=
+github.com/djodjo02130/cwlogger v0.0.0-20240403202035-f3f939b787c6 h1:sjozrUI39X/YHDsXUCslNIw0A/hi/Tk74fukBFv96gM=
+github.com/djodjo02130/cwlogger v0.0.0-20240403202035-f3f939b787c6/go.mod h1:Y5/8wokpsaBwsAIsuJqZMBjOl6FDcmgN46fjbealQiw=
 github.com/honeybadger-io/honeybadger-go v0.2.1 h1:+DZbyc6RY+c5DvFU78lSegmMLyUtgOoDBUGNWZFSAqM=
 github.com/honeybadger-io/honeybadger-go v0.2.1/go.mod h1:QBg96N5tQeLsbJzkgqkoIazFoND4NJmTCByL+73Ve10=
 github.com/jmespath/go-jmespath v0.4.0 h1:BEgLn5cpjn8UN1mAw4NjwDrS35OdebyEtFe+9YPoQUg=

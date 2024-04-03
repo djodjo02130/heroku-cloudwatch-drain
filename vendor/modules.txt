@@ -48,7 +48,7 @@ github.com/aws/aws-sdk-go/service/sts/stsiface
 # github.com/davecgh/go-spew v1.1.1
 ## explicit
 github.com/davecgh/go-spew/spew
-# github.com/djodjo02130/cwlogger v0.0.0-20240403201912-408fad5e4bd8
+# github.com/djodjo02130/cwlogger v0.0.0-20240403202035-f3f939b787c6
 ## explicit
 github.com/djodjo02130/cwlogger
 # github.com/honeybadger-io/honeybadger-go v0.2.1
